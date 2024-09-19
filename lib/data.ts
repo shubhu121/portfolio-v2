@@ -41,7 +41,7 @@ export const experiencesData = [
     title: "Software Developer Intern",
     company: "Builder.ai",
     description:
-      "I majorly workded on backend of chrome based saas ai tool.",
+      "I majorly workded on backend of chrome extension based saas ai tool.",
     icon: React.createElement(FaReact),
     date: "2023(Oct) - 2024(Apr)",
   },
